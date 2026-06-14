@@ -1,6 +1,6 @@
 {
   "name": "fnos-tunnel",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "fnOS Cloudflare Tunnel SDK for JavaScript / TypeScript",
   "keywords": ["fnos", "cloudflare", "tunnel", "sdk"],
   "license": "MIT",
