@@ -39,10 +39,3 @@ const result = await client.register("myapp.example.com", "http://localhost:8080
 ```bash
 npm run build
 ```
-
-## 发布到 npm
-
-```bash
-npm login
-npm publish --access public
-```

@@ -1,10 +1,11 @@
 {
   "name": "fnos-tunnel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "fnOS Cloudflare Tunnel SDK for JavaScript / TypeScript",
   "keywords": ["fnos", "cloudflare", "tunnel", "sdk"],
   "license": "MIT",
-  "author": "fnOS <hello@fnos.dev>",
+  "homepage": "https://fnosp.dustinky.com/products/tunnel/",
+  "author": "尘墨成 <dustink66@qq.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/dustink66/fnos-tunnel-sdk-javascript.git"
